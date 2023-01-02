@@ -1,0 +1,40 @@
+.header{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.headerTitles{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lora', serif;
+    color: #444;
+    
+}
+.headerTitleLg{
+    position: absolute;
+    top: 30%;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    
+
+}
+.headerTitleSm{
+   position: absolute; 
+   top: 50%;
+   font-size: 20px;
+   color: rgb(255, 255, 255);
+}
+.headerImg{
+    background: url('/src/image/Bluenile.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height:100vh;
+    Width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    box-shadoW: inset 200px 200px 200px 200px rgba(0, 0, 0, 0.808);
+    object-fit: fill;
+    
+    
+}
