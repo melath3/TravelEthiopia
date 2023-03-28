@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dc17469.css",
+    "main.js": "/static/js/main.2322cb71.js",
+    "static/media/login.jpg": "/static/media/login.2e2ba76078ae2ce10a60.jpg",
+    "static/media/register.jpg": "/static/media/register.facd3a1623c6c878c1dd.jpg",
+    "static/media/Bluenile.jpg": "/static/media/Bluenile.9074cbda746eb738e09a.jpg",
+    "index.html": "/index.html",
+    "main.6dc17469.css.map": "/static/css/main.6dc17469.css.map",
+    "main.2322cb71.js.map": "/static/js/main.2322cb71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc17469.css",
+    "static/js/main.2322cb71.js"
+  ]
+}
